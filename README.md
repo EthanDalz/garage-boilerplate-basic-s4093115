@@ -187,3 +187,5 @@ Follow the checklist in [CLAUDE.md — Forking for a New Client Project](CLAUDE.
 ## Credits
 
 Original boilerplate by **Duc Gia Tin Huynh** ([LinkedIn](https://www.linkedin.com/in/huynhducgiatin/)).
+
+Test commit 
